@@ -1,0 +1,22 @@
+body{
+    background-image: url('https://assets.simpleviewcms.com/simpleview/image/fetch/q_75/https://res.cloudinary.com/simpleview/image/upload/crm/parkcity/books_4859503D-C558-40BD-BF8E0023F8F2E057_e34e4e7e-ce74-4db0-b76c2d6bffa12303.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 100vh;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+form{
+    background-color: white;
+    border-radius: 15%;
+    border-style: groove;
+    padding: 2%;
+    font-size: large;
+}
+legend{
+    font-size: xx-large;
+    color: rgb(202, 60, 60);
+}

@@ -1,0 +1,34 @@
+           
+            form{
+                margin-left: 5%;
+                margin-top: 2%;
+                font-family: 'Noto Serif SC', serif;
+                font-weight: 500;
+                font-size: larger;
+            }
+            
+            .belowheader{
+                background-color: powderblue;
+                height: 100vh;
+                width: 102vw;
+                margin: -4vh;
+            }
+          
+            label, select, input, button, .btn{
+                font-family: 'Noto Serif SC', serif;
+                font-size: x-large;
+                font-weight: 500;
+            }
+            .control-label{
+                margin-bottom: -2vh;
+            }
+            .btn{
+                background-color: navy;
+                color: white;
+            }
+            
+            .success{
+                margin: 10vh;
+                height: 50vh;
+                width: 50vh;
+            }
