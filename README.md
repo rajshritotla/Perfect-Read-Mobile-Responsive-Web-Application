@@ -25,7 +25,7 @@ XAMPP (Windows) | MAMP (Mac)
 # Suggested import IDE
 Netbeans
 
-# FOLDERS DESCRIPTION
+# Folders Description
 user_credential : Authorizing/Creating users
 
 include_pages : Included multiple times commonly in almost every page
@@ -34,7 +34,7 @@ functional_webpage :Pages used by users to acces different views by user
 
 images : Images used by user
 
-# EACH FOLDER HAVE
+# Each Folder Have
 stylesheets : have css files
 
 javascript_files : have js files
@@ -43,7 +43,7 @@ include_php_files : pages that are included in webpages; to make pages small and
 
 backend_pages : they are doing required functioning and user don't deal with them
 
-# NOTE
+# Note
 Some images used in project are taken from internet.
 
 The project was designed for academic use/learning purpose.
