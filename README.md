@@ -9,6 +9,10 @@ App generates analysis data, can be accessed by DB admin.
 
 (Analogy with real blogging websites like Medium)
 
+```
+OUTPUT directory contains a few images, to give an idea how about project's UI, UX, features and working
+```
+
 # Repository Contents
 Application Code
 
