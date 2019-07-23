@@ -7,6 +7,8 @@ Also, user can upload his own writings work through application and make availab
 
 App generates analysis data, can be accessed by DB admin.
 
+(Analogy with real blogging websites like Medium)
+
 # Repository Contents
 Application Code
 
